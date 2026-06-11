@@ -1,27 +1,36 @@
-# 💫 About Me:
-🔭 I’m currently working on BriefFa.st<br>🤝 I’m looking for help with Express<br>🌱 I’m currently learning NestJS<br>💬 Ask me about everything<br>⚡ Fun fact I'm writing a book
+# Moritz
 
+I build things — mostly machine learning and systems, and usually from scratch.
+I'd rather understand the whole pipeline than glue libraries together: data,
+model, training, deployment.
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@devmtkl) 
+## Selected projects
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mtkl6&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mtkl6&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mtkl6&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- **[Dichter & Denker](https://github.com/mtkl6/goethe-schiller-kant)** — a GPT trained from scratch on the German classics: custom tokenizer, ~13M-token corpus, two-stage training, fine-tuned into a chat model you can talk to as Goethe, Kant, Schiller & co. &nbsp;·&nbsp; [model on 🤗](https://huggingface.co/mtkl6/dichter-denker)
+- **[Cat vs Dog Classifier](https://github.com/mtkl6/cat-dog-classifier)** — ResNet50 transfer learning (~94% accuracy) with Grad-CAM explanations, plus a beginner's guide that walks through building it end to end. &nbsp;·&nbsp; [model on 🤗](https://huggingface.co/mtkl6/cat-dog-classifier)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mtkl6&theme=default&no-frame=false&no-bg=true&margin-w=4)
+Also building, mostly private for now: a C++/Vulkan game engine, reinforcement-learning self-play agents, and some Claude-based tooling.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Tech I reach for
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mtkl6&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+## Currently
+
+Focused on machine learning and AI, with a couple of small SaaS side projects in the mix.
+
+## Links
+
+[devmtkl.com](https://devmtkl.com) &nbsp;·&nbsp; [X / @devmtkl](https://x.com/devmtkl)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mtkl6&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Moritz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtkl6&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
