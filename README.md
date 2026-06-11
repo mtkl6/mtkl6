@@ -30,7 +30,3 @@ Focused on machine learning and AI, with a couple of small SaaS side projects in
 ## Links
 
 [devmtkl.com](https://devmtkl.com) &nbsp;·&nbsp; [X / @devmtkl](https://x.com/devmtkl)
-
----
-
-![Moritz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtkl6&show_icons=true&hide_border=true)
